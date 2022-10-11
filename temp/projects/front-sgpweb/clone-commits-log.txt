@@ -8,3 +8,4 @@
 {"hash":"5efeb69fa","author":"Daniel Sobrinho","date":"2022-10-08 00:01:53","message":"feat: criar serviço para buscar o cliente com departamento e criar serviço que busca o cartao do cliente","files":[{"status":"A","path":"src/pages/Dashboard/service/cartao.ts"},{"status":"M","path":"src/pages/Dashboard/service/pesquisa.ts"}]}
 {"hash":"78d934532","author":"Daniel Sobrinho","date":"2022-10-11 12:31:25","message":"fix: altera nivel","files":[{"status":"M","path":"src/pages/Dashboard/components/InputClientComDepartECartao/index.tsx"}]}
 {"hash":"310d71cdc","author":"Daniel Sobrinho","date":"2022-10-11 12:32:10","message":"feat: adiciona tipagem role ao InputType","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreator/FormCreator.types.ts"}]}
+{"hash":"f48a3406f","author":"Daniel Sobrinho","date":"2022-10-11 12:32:56","message":"refactor: altera o user do contexto para o do localStorage","files":[{"status":"M","path":"src/hooks/useCanSee.tsx"}]}
