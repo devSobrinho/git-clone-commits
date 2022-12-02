@@ -52,3 +52,4 @@
 {"hash":"946971d95","author":"Daniel Sobrinho","date":"2022-11-16 14:44:27","message":"fix: muda signOut do contexto e da reload da page","files":[{"status":"M","path":"src/context/AuthContext.tsx"},{"status":"M","path":"src/services/auth.ts"},{"status":"M","path":"src/utils/index.ts"}]}
 {"hash":"c0620fc4e","author":"Daniel Sobrinho","date":"2022-12-02 19:51:38","message":"package: redux-persist","files":[{"status":"M","path":"package.json"}]}
 {"hash":"dcf890362","author":"Daniel Sobrinho","date":"2022-12-02 19:51:52","message":"config: ignorado pasta docs","files":[{"status":"M","path":".gitignore"}]}
+{"hash":"8642a2536","author":"Daniel Sobrinho","date":"2022-12-02 19:52:18","message":"fix: alterado a store do redux","files":[{"status":"M","path":"src/App.tsx"}]}
