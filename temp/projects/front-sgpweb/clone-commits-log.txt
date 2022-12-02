@@ -54,3 +54,4 @@
 {"hash":"dcf890362","author":"Daniel Sobrinho","date":"2022-12-02 19:51:52","message":"config: ignorado pasta docs","files":[{"status":"M","path":".gitignore"}]}
 {"hash":"8642a2536","author":"Daniel Sobrinho","date":"2022-12-02 19:52:18","message":"fix: alterado a store do redux","files":[{"status":"M","path":"src/App.tsx"}]}
 {"hash":"9ffe7a092","author":"Daniel Sobrinho","date":"2022-12-02 19:52:53","message":"feat: criado constantes estados e formatos etiquetas","files":[{"status":"A","path":"src/constants/estados.ts"},{"status":"A","path":"src/constants/formatos-etiquetas.ts"}]}
+{"hash":"0783375d6","author":"Daniel Sobrinho","date":"2022-12-02 19:53:35","message":"fix: alterado JSON parse caso nao exista user","files":[{"status":"M","path":"src/hooks/useCanSee.tsx"}]}
