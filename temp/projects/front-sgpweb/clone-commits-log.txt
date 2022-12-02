@@ -71,3 +71,4 @@
 {"hash":"52dca900d","author":"Daniel Sobrinho","date":"2022-12-02 20:04:43","message":"remove: controleExpedicaoFormData","files":[{"status":"D","path":"src/pages/Dashboard/pages/MinhaConta/MeuCadastro/components/ControleExpedicao/utils/controleExpedicaoFormData.ts"}]}
 {"hash":"f77d63eb3","author":"Daniel Sobrinho","date":"2022-12-02 20:05:12","message":"feat: criado store, adicionado os reducer e a persistencia","files":[{"status":"A","path":"src/store/index.ts"}]}
 {"hash":"6b192ba4d","author":"Daniel Sobrinho","date":"2022-12-02 20:06:57","message":"feat: criado acfSlice","files":[{"status":"A","path":"src/store/modules/user/acf/acf.slice.ts"}]}
+{"hash":"377e5f696","author":"Daniel Sobrinho","date":"2022-12-02 20:07:30","message":"feat: criado thunks da acf","files":[{"status":"A","path":"src/store/modules/user/acf/acf.thunks.ts"}]}
