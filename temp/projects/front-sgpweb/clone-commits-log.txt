@@ -61,3 +61,4 @@
 {"hash":"184dd022d","author":"Daniel Sobrinho","date":"2022-12-02 19:56:02","message":"feat: implementado role para componente TabPanelCreator","files":[{"status":"M","path":"src/pages/Dashboard/components/TabPanelCreator/index.tsx"}]}
 {"hash":"a90585831","author":"Daniel Sobrinho","date":"2022-12-02 19:56:29","message":"styles: alterado local de import","files":[{"status":"M","path":"src/pages/Dashboard/pages/Comercial/Clientes/screens/Pesquisa/utils/enderecosColeta.tsx"}]}
 {"hash":"ac386ac32","author":"Daniel Sobrinho","date":"2022-12-02 19:57:07","message":"styles: removido espaço em branco","files":[{"status":"M","path":"src/pages/Dashboard/pages/MinhaConta/MeuCadastro/MeuCadastro.tsx"}]}
+{"hash":"2438e7384","author":"Daniel Sobrinho","date":"2022-12-02 19:58:05","message":"feat: implementado dispatch getACFAsync quando entra na pagina de  Meu Cadastro","files":[{"status":"M","path":"src/pages/Dashboard/pages/MinhaConta/MeuCadastro/TabMeuCadastro.tsx"}]}
