@@ -74,3 +74,4 @@
 {"hash":"377e5f696","author":"Daniel Sobrinho","date":"2022-12-02 20:07:30","message":"feat: criado thunks da acf","files":[{"status":"A","path":"src/store/modules/user/acf/acf.thunks.ts"}]}
 {"hash":"875a397e7","author":"Daniel Sobrinho","date":"2022-12-02 20:07:45","message":"feat: criado as interdaces da acf","files":[{"status":"A","path":"src/store/modules/user/acf/interfaces/index.ts"}]}
 {"hash":"75eee3175","author":"Daniel Sobrinho","date":"2022-12-02 20:08:15","message":"feat: criado serviço de request da acf","files":[{"status":"A","path":"src/pages/Dashboard/service/acf.ts"}]}
+{"hash":"3797a42ab","author":"Daniel Sobrinho","date":"2022-12-02 20:08:53","message":"remove: removido constantes estados da utils","files":[{"status":"D","path":"src/utils/estados.ts"}]}
