@@ -88,3 +88,4 @@
 {"hash":"e68995440","author":"Daniel Sobrinho","date":"2022-12-06 20:59:36","message":"feat: criado Enum de nivels","files":[{"status":"A","path":"src/constants/roles.ts"}]}
 {"hash":"c45431377","author":"Daniel Sobrinho","date":"2022-12-06 20:59:51","message":"feat: interface dos departamentos","files":[{"status":"A","path":"src/interfaces/departamentos.ts"}]}
 {"hash":"9d47637a8","author":"Daniel Sobrinho","date":"2022-12-06 21:00:15","message":"feat: cria interfaces da paginação e message de retorno dos dados","files":[{"status":"A","path":"src/interfaces/index.ts"},{"status":"A","path":"src/interfaces/pagination.ts"}]}
+{"hash":"a641c62d2","author":"Daniel Sobrinho","date":"2022-12-06 21:00:36","message":"fix: alterado InputComponentProps","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreator/FormCreator.types.ts"}]}
