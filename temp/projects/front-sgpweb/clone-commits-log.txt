@@ -97,3 +97,4 @@
 {"hash":"bbc075ee8","author":"Daniel Sobrinho","date":"2022-12-06 21:04:53","message":"feat: cria serviço para departamentos, listAll, create, update, delete e buscarDepartamentosCartaoCliente","files":[{"status":"A","path":"src/pages/Dashboard/service/departamentos.ts"}]}
 {"hash":"9f72e6d9b","author":"Daniel Sobrinho","date":"2022-12-06 21:05:57","message":"feat: cria slice Cliente do redux","files":[{"status":"A","path":"src/store/modules/user/cliente/cliente.slice.ts"}]}
 {"hash":"1db3d4e08","author":"Daniel Sobrinho","date":"2022-12-06 21:06:15","message":"feat: cria thunks para Cliente","files":[{"status":"A","path":"src/store/modules/user/cliente/cliente.thunks.ts"}]}
+{"hash":"35e0a7b56","author":"Daniel Sobrinho","date":"2022-12-06 21:06:28","message":"feat: implementa reducer Cliente na store","files":[{"status":"M","path":"src/store/index.ts"}]}
