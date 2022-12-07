@@ -100,3 +100,4 @@
 {"hash":"35e0a7b56","author":"Daniel Sobrinho","date":"2022-12-06 21:06:28","message":"feat: implementa reducer Cliente na store","files":[{"status":"M","path":"src/store/index.ts"}]}
 {"hash":"2854addff","author":"Daniel Sobrinho","date":"2022-12-06 21:06:47","message":"feat: cria interface de Cliente","files":[{"status":"A","path":"src/store/modules/user/cliente/interfaces/index.ts"}]}
 {"hash":"a1080116d","author":"Daniel Sobrinho","date":"2022-12-06 21:08:32","message":"feat: dispara ação na store dependendo do nivel do usuario para pagina Meu Cadastro","files":[{"status":"M","path":"src/pages/Dashboard/pages/MinhaConta/MeuCadastro/TabMeuCadastro.tsx"}]}
+{"hash":"af9d940cb","author":"Daniel Sobrinho","date":"2022-12-06 21:08:47","message":"feat: componente ConfiguracoesCliente","files":[{"status":"A","path":"src/pages/Dashboard/pages/MinhaConta/MeuCadastro/components/ConfiguracoesCliente/ConfiguracoesCliente.tsx"}]}
