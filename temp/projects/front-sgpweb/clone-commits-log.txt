@@ -93,3 +93,4 @@
 {"hash":"887636db5","author":"Daniel Sobrinho","date":"2022-12-06 21:01:55","message":"feat: cria componente TableBasic para exibição de dados sem paginação","files":[{"status":"A","path":"src/pages/Dashboard/components/TableBasic/index.tsx"}]}
 {"hash":"275a6f860","author":"Daniel Sobrinho","date":"2022-12-06 21:02:32","message":"fix: alterado roles do TabPaneelCreator","files":[{"status":"M","path":"src/pages/Dashboard/components/TabPanelCreator/index.tsx"}]}
 {"hash":"b03580c1d","author":"Daniel Sobrinho","date":"2022-12-06 21:03:46","message":"feat: adiciona ao serviço de cartoes a listagem","files":[{"status":"M","path":"src/pages/Dashboard/service/cartao.ts"}]}
+{"hash":"eab98a856","author":"Daniel Sobrinho","date":"2022-12-06 21:04:11","message":"feat: cria serviço para cliente, get e update.","files":[{"status":"A","path":"src/pages/Dashboard/service/cliente.ts"}]}
