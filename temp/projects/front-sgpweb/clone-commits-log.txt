@@ -119,3 +119,4 @@
 {"hash":"11d749d29","author":"Daniel Sobrinho","date":"2022-12-08 11:05:05","message":"feat: cria interface Contato e Departamentos","files":[{"status":"A","path":"src/interfaces/contato.ts"},{"status":"M","path":"src/interfaces/departamentos.ts"}]}
 {"hash":"d4d176a0c","author":"Daniel Sobrinho","date":"2022-12-08 11:05:53","message":"feat: implementa icon Close no InputDatePicker","files":[{"status":"M","path":"src/pages/Dashboard/components/InputDatePicker/index.tsx"}]}
 {"hash":"e6c1a9610","author":"Daniel Sobrinho","date":"2022-12-08 11:06:27","message":"fix: altera titulo do componente Departamento","files":[{"status":"M","path":"src/pages/Dashboard/pages/MinhaConta/MeuCadastro/components/Departamentos/Departamentos.tsx"}]}
+{"hash":"7eb414ffd","author":"Daniel Sobrinho","date":"2022-12-08 11:07:21","message":"feat: cria servico de contato","files":[{"status":"A","path":"src/pages/Dashboard/service/contato.ts"}]}
