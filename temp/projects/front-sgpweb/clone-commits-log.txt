@@ -117,3 +117,4 @@
 {"hash":"420e7049c","author":"Daniel Sobrinho","date":"2022-12-07 22:48:01","message":"alterado nome da rota","files":[{"status":"M","path":"src/pages/Dashboard/service/home.ts"}]}
 {"hash":"113d534cc","author":"Daniel Sobrinho","date":"2022-12-08 11:01:45","message":"fix: alterado rota da api","files":[{"status":"M","path":"src/services/api.ts"}]}
 {"hash":"11d749d29","author":"Daniel Sobrinho","date":"2022-12-08 11:05:05","message":"feat: cria interface Contato e Departamentos","files":[{"status":"A","path":"src/interfaces/contato.ts"},{"status":"M","path":"src/interfaces/departamentos.ts"}]}
+{"hash":"d4d176a0c","author":"Daniel Sobrinho","date":"2022-12-08 11:05:53","message":"feat: implementa icon Close no InputDatePicker","files":[{"status":"M","path":"src/pages/Dashboard/components/InputDatePicker/index.tsx"}]}
