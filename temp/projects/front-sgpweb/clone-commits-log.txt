@@ -168,3 +168,4 @@
 {"hash":"26e416a49","author":"Daniel Sobrinho","date":"2022-12-15 10:41:43","message":"feat: implementa indicador selecionado ao componente","files":[{"status":"M","path":"src/pages/Dashboard/pages/Home/components/Indicadores.tsx"}]}
 {"hash":"318503a61","author":"Daniel Sobrinho","date":"2022-12-15 10:42:52","message":"feat: cria estado de indicador selecionado e implementa ao compoennte de indicador e do dashboard","files":[{"status":"M","path":"src/pages/Dashboard/pages/Home/Home.tsx"}]}
 {"hash":"78cd53029","author":"Daniel Sobrinho","date":"2022-12-15 10:43:04","message":"fix: remove comentarios","files":[{"status":"M","path":"src/pages/Dashboard/components/TableCreator/index.tsx"}]}
+{"hash":"85a098467","author":"Daniel Sobrinho","date":"2022-12-15 10:43:53","message":"feat: implementa modal para visualizar resultados na grid do dashboard da Home","files":[{"status":"M","path":"src/pages/Dashboard/pages/Home/components/ProblemasDePostagem.tsx"}]}
