@@ -184,3 +184,4 @@
 {"hash":"f6fac8ed7","author":"Daniel Sobrinho","date":"2022-12-15 19:27:16","message":"refactor: useCanSee adicona idsGruposRequired e permissoesJsonRequired","files":[{"status":"M","path":"src/hooks/useCanSee.tsx"}]}
 {"hash":"4f1cb6963","author":"Daniel Sobrinho","date":"2022-12-15 19:27:57","message":"feat: implementa ao contexto o idGrupo e permissoesJson","files":[{"status":"M","path":"src/context/AuthContext.tsx"}]}
 {"hash":"a01a133fc","author":"Daniel Sobrinho","date":"2022-12-15 19:28:37","message":"feat: adiciona na interface Role","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreator/FormCreator.types.ts"}]}
+{"hash":"6ed68ed16","author":"Daniel Sobrinho","date":"2022-12-15 19:29:02","message":"feat: implementa idGrupo ao menuData e adciona na tipagem","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/utils/menuData.ts"}]}
