@@ -165,3 +165,4 @@
 {"hash":"a25b4d90c","author":"Daniel Sobrinho","date":"2022-12-15 10:37:07","message":"feat: implementa prop sx ao componente Modal","files":[{"status":"M","path":"src/pages/Dashboard/components/Modal/Modal.tsx"}]}
 {"hash":"2984c8da6","author":"Daniel Sobrinho","date":"2022-12-15 10:40:09","message":"fix: altera label de EstatisticasDeServicos","files":[{"status":"M","path":"src/pages/Dashboard/pages/Home/components/EstatisticasDeServicos.tsx"}]}
 {"hash":"0a2d8bb3a","author":"Daniel Sobrinho","date":"2022-12-15 10:40:47","message":"fix: altera dateFilterDashboard para alterações futuras","files":[{"status":"M","path":"src/pages/Dashboard/pages/Home/utils/dateFilterDashboard.ts"}]}
+{"hash":"26e416a49","author":"Daniel Sobrinho","date":"2022-12-15 10:41:43","message":"feat: implementa indicador selecionado ao componente","files":[{"status":"M","path":"src/pages/Dashboard/pages/Home/components/Indicadores.tsx"}]}
