@@ -176,3 +176,4 @@
 {"hash":"d09438abe","author":"Daniel Sobrinho","date":"2022-12-15 16:03:45","message":"fix: altera nome do menu relatorios","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/utils/menuData.ts"}]}
 {"hash":"cfa4face9","author":"Daniel Sobrinho","date":"2022-12-15 16:05:13","message":"feat: implementa loading no botao de submit e exibe erro para login errado","files":[{"status":"M","path":"src/pages/UserSignIn/LoginForm/SignIn/index.tsx"},{"status":"M","path":"src/pages/UserSignIn/LoginForm/index.tsx"}]}
 {"hash":"047d99799","author":"Daniel Sobrinho","date":"2022-12-15 18:25:48","message":"feat: cria serviços para recuperar senha e validar o code","files":[{"status":"M","path":"src/services/auth.ts"}]}
+{"hash":"5ffff1f9c","author":"Daniel Sobrinho","date":"2022-12-15 18:26:06","message":"feat: implementa formularios para recuperação de senha","files":[{"status":"M","path":"src/pages/UserSignIn/LoginForm/ForgotPassword/index.tsx"}]}
