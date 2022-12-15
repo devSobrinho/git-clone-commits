@@ -178,3 +178,4 @@
 {"hash":"047d99799","author":"Daniel Sobrinho","date":"2022-12-15 18:25:48","message":"feat: cria serviços para recuperar senha e validar o code","files":[{"status":"M","path":"src/services/auth.ts"}]}
 {"hash":"5ffff1f9c","author":"Daniel Sobrinho","date":"2022-12-15 18:26:06","message":"feat: implementa formularios para recuperação de senha","files":[{"status":"M","path":"src/pages/UserSignIn/LoginForm/ForgotPassword/index.tsx"}]}
 {"hash":"66c791efd","author":"Daniel Sobrinho","date":"2022-12-15 19:23:01","message":"feat: cria enum IdGrupo","files":[{"status":"M","path":"src/constants/roles.ts"}]}
+{"hash":"b89602840","author":"Daniel Sobrinho","date":"2022-12-15 19:23:26","message":"feat: cria interface para permissoesJSON","files":[{"status":"M","path":"src/utils/permission.interface.ts"}]}
