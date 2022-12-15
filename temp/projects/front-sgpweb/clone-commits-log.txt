@@ -162,3 +162,4 @@
 {"hash":"8e4621977","author":"Daniel Sobrinho","date":"2022-12-15 10:31:32","message":"feat: cria servico para pesquisar dados do Dashboard","files":[{"status":"M","path":"src/pages/Dashboard/service/home.ts"}]}
 {"hash":"ab265a727","author":"Daniel Sobrinho","date":"2022-12-15 10:31:58","message":"fix: alterado import do InputType","files":[{"status":"M","path":"src/pages/Dashboard/pages/Relatorios/DashboardAtendimento/components/EstatisticaHero.tsx"}]}
 {"hash":"342647f36","author":"Daniel Sobrinho","date":"2022-12-15 10:36:44","message":"feat: aplica props disabled ao componente CardIndicador","files":[{"status":"M","path":"src/pages/Dashboard/components/CardIndicador/index.tsx"}]}
+{"hash":"a25b4d90c","author":"Daniel Sobrinho","date":"2022-12-15 10:37:07","message":"feat: implementa prop sx ao componente Modal","files":[{"status":"M","path":"src/pages/Dashboard/components/Modal/Modal.tsx"}]}
