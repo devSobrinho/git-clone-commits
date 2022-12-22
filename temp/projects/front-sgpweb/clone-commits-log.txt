@@ -186,3 +186,4 @@
 {"hash":"a01a133fc","author":"Daniel Sobrinho","date":"2022-12-15 19:28:37","message":"feat: adiciona na interface Role","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreator/FormCreator.types.ts"}]}
 {"hash":"6ed68ed16","author":"Daniel Sobrinho","date":"2022-12-15 19:29:02","message":"feat: implementa idGrupo ao menuData e adciona na tipagem","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/utils/menuData.ts"}]}
 {"hash":"2e3dd96ea","author":"Daniel Sobrinho","date":"2022-12-22 19:05:31","message":"AuthContext.tsx restringindo o acesso de agencias nao liberadas","files":[{"status":"M","path":"src/context/AuthContext.tsx"}]}
+{"hash":"5a1e9332f","author":"Daniel Sobrinho","date":"2022-12-22 19:27:22","message":"AuthContext.tsx alterados online com o Bitbucket","files":[{"status":"M","path":"src/context/AuthContext.tsx"}]}
