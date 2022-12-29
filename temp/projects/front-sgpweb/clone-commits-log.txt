@@ -202,3 +202,4 @@
 {"hash":"8970d757b","author":"Daniel Sobrinho","date":"2022-12-29 11:22:22","message":"feat: cria component SwitchBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/SwitchBase/index.tsx"}]}
 {"hash":"568167f51","author":"Daniel Sobrinho","date":"2022-12-29 11:22:40","message":"feat: cria provider FormProviderBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/FormProviderBase/index.tsx"}]}
 {"hash":"301ac1247","author":"Daniel Sobrinho","date":"2022-12-29 11:23:09","message":"import: FormCreatorV2","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/index.ts"}]}
+{"hash":"17c4ee94d","author":"Daniel Sobrinho","date":"2022-12-29 11:23:27","message":"feat: cria component GridCreator","files":[{"status":"A","path":"src/pages/Dashboard/components/GridCreator/index.tsx"}]}
