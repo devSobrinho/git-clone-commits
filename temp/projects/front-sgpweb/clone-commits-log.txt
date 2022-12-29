@@ -192,3 +192,4 @@
 {"hash":"2bbec9098","author":"Daniel Sobrinho","date":"2022-12-28 14:33:57","message":"AuthContext.tsx alterados online com o Bitbucket","files":[{"status":"M","path":"src/context/AuthContext.tsx"}]}
 {"hash":"09505b126","author":"Daniel Sobrinho","date":"2022-12-28 14:43:46","message":"AuthContext.tsx alterados online com o Bitbucket","files":[{"status":"M","path":"src/context/AuthContext.tsx"}]}
 {"hash":"c93a65753","author":"Daniel Sobrinho","date":"2022-12-29 11:19:55","message":"feat: cria component InputTextBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/InputTextBase/index.tsx"}]}
+{"hash":"40fa1484f","author":"Daniel Sobrinho","date":"2022-12-29 11:20:32","message":"feat: cria component InputPasswordBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/InputPasswordBase/index.tsx"}]}
