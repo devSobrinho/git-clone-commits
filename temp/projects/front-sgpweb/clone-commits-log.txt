@@ -201,3 +201,4 @@
 {"hash":"fc85a87f4","author":"Daniel Sobrinho","date":"2022-12-29 11:22:09","message":"feat: cria component CheckboxBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/CheckboxBase/index.tsx"}]}
 {"hash":"8970d757b","author":"Daniel Sobrinho","date":"2022-12-29 11:22:22","message":"feat: cria component SwitchBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/SwitchBase/index.tsx"}]}
 {"hash":"568167f51","author":"Daniel Sobrinho","date":"2022-12-29 11:22:40","message":"feat: cria provider FormProviderBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/FormProviderBase/index.tsx"}]}
+{"hash":"301ac1247","author":"Daniel Sobrinho","date":"2022-12-29 11:23:09","message":"import: FormCreatorV2","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/index.ts"}]}
