@@ -199,3 +199,4 @@
 {"hash":"35f9d6a84","author":"Daniel Sobrinho","date":"2022-12-29 11:21:36","message":"feat: cria component RadioGroupBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/RadioGroupBase/index.tsx"}]}
 {"hash":"cc6f012a1","author":"Daniel Sobrinho","date":"2022-12-29 11:21:50","message":"feat: cria component TextAreaBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/TextAreaBase/index.tsx"}]}
 {"hash":"fc85a87f4","author":"Daniel Sobrinho","date":"2022-12-29 11:22:09","message":"feat: cria component CheckboxBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/CheckboxBase/index.tsx"}]}
+{"hash":"8970d757b","author":"Daniel Sobrinho","date":"2022-12-29 11:22:22","message":"feat: cria component SwitchBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/SwitchBase/index.tsx"}]}
