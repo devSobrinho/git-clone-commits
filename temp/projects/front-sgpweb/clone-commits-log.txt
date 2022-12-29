@@ -204,3 +204,4 @@
 {"hash":"301ac1247","author":"Daniel Sobrinho","date":"2022-12-29 11:23:09","message":"import: FormCreatorV2","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/index.ts"}]}
 {"hash":"17c4ee94d","author":"Daniel Sobrinho","date":"2022-12-29 11:23:27","message":"feat: cria component GridCreator","files":[{"status":"A","path":"src/pages/Dashboard/components/GridCreator/index.tsx"}]}
 {"hash":"88eb60728","author":"Daniel Sobrinho","date":"2022-12-29 11:25:32","message":"feat: implementa headCells ao TableBasic","files":[{"status":"M","path":"src/pages/Dashboard/components/TableBasic/index.tsx"}]}
+{"hash":"624a09371","author":"Daniel Sobrinho","date":"2022-12-29 11:26:16","message":"feat: adiciona constantes de formulario","files":[{"status":"A","path":"src/constants/forms/arDigital.ts"},{"status":"M","path":"src/constants/forms/tipo.ts"}]}
