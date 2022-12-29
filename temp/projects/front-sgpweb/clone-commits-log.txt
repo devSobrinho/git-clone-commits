@@ -208,3 +208,4 @@
 {"hash":"7856d03e2","author":"Daniel Sobrinho","date":"2022-12-29 11:27:19","message":"feat: implementa servico de listAllPercentual, createPercentual e deletePercentual para vendedores","files":[{"status":"M","path":"src/pages/Dashboard/service/vendedores.ts"}]}
 {"hash":"26aa1206b","author":"Daniel Sobrinho","date":"2022-12-29 11:28:02","message":"feat: cria servico de listAll e listAllAgencia","files":[{"status":"A","path":"src/pages/Dashboard/service/servicos.ts"}]}
 {"hash":"651bcda1a","author":"Daniel Sobrinho","date":"2022-12-29 11:28:46","message":"feat: adiciona servico em departamento de buscarDepartamentosCartaoClienteAGF","files":[{"status":"M","path":"src/pages/Dashboard/service/departamentos.ts"}]}
+{"hash":"8d09ef817","author":"Daniel Sobrinho","date":"2022-12-29 11:29:58","message":"feat: cria servico para getPrecificao em clienteRequest","files":[{"status":"M","path":"src/pages/Dashboard/service/cliente.ts"}]}
