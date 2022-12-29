@@ -196,3 +196,4 @@
 {"hash":"441ed877b","author":"Daniel Sobrinho","date":"2022-12-29 11:20:47","message":"feat: cria component DatePickerBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/DatePickerBase/index.tsx"}]}
 {"hash":"169c2bbad","author":"Daniel Sobrinho","date":"2022-12-29 11:21:06","message":"feat: cria component SelectBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/SelectBase/index.tsx"}]}
 {"hash":"3f2419249","author":"Daniel Sobrinho","date":"2022-12-29 11:21:22","message":"feat: cria component MenuItemBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/MenuItemBase/index.tsx"}]}
+{"hash":"35f9d6a84","author":"Daniel Sobrinho","date":"2022-12-29 11:21:36","message":"feat: cria component RadioGroupBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/RadioGroupBase/index.tsx"}]}
