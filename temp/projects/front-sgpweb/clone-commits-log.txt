@@ -223,3 +223,4 @@
 {"hash":"b72f11f67","author":"Daniel Sobrinho","date":"2023-01-03 10:23:25","message":"feat: criado util formQueryParams e modificado interface de Departamento","files":[{"status":"M","path":"src/store/modules/user/cliente/interfaces/index.ts"},{"status":"M","path":"src/utils/index.ts"}]}
 {"hash":"4fd1a9c58","author":"Daniel Sobrinho","date":"2023-01-03 12:47:07","message":"fix: altera logica do hook useCanSee do IdGrupo","files":[{"status":"M","path":"src/hooks/useCanSee.tsx"}]}
 {"hash":"9a8adeaf7","author":"Daniel Sobrinho","date":"2023-01-03 12:47:41","message":"feat: implementa tooltip ao header","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/components/HeaderAppBar.tsx"}]}
+{"hash":"a96675f7c","author":"Daniel Sobrinho","date":"2023-01-03 12:47:55","message":"styles: remove comentario","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/utils/menuData.ts"}]}
