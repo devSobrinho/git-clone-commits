@@ -224,3 +224,4 @@
 {"hash":"4fd1a9c58","author":"Daniel Sobrinho","date":"2023-01-03 12:47:07","message":"fix: altera logica do hook useCanSee do IdGrupo","files":[{"status":"M","path":"src/hooks/useCanSee.tsx"}]}
 {"hash":"9a8adeaf7","author":"Daniel Sobrinho","date":"2023-01-03 12:47:41","message":"feat: implementa tooltip ao header","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/components/HeaderAppBar.tsx"}]}
 {"hash":"a96675f7c","author":"Daniel Sobrinho","date":"2023-01-03 12:47:55","message":"styles: remove comentario","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/utils/menuData.ts"}]}
+{"hash":"1ed675ea5","author":"Daniel Sobrinho","date":"2023-01-03 12:48:45","message":"fix: altera departamentos de meu cadastro","files":[{"status":"M","path":"src/pages/Dashboard/pages/MinhaConta/MeuCadastro/components/Departamentos/FormDepartamentos.tsx"}]}
