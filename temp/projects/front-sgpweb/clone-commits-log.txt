@@ -232,3 +232,4 @@
 {"hash":"ff822336a","author":"Daniel Sobrinho","date":"2023-01-04 17:17:00","message":"fix: altera no servico de cliente o parametro clientes_clienteDesde no create e update","files":[{"status":"M","path":"src/pages/Dashboard/service/cliente.ts"}]}
 {"hash":"c12f20057","author":"Daniel Sobrinho","date":"2023-01-04 17:17:30","message":"feat: implementa mask no input DatePickerBase","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreatorV2/components/DatePickerBase/index.tsx"}]}
 {"hash":"0162de8a7","author":"Daniel Sobrinho","date":"2023-01-04 17:19:02","message":"fix: alteracao no InputTextBase","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreatorV2/components/InputTextBase/index.tsx"}]}
+{"hash":"f02c816ba","author":"Daniel Sobrinho","date":"2023-01-04 17:37:27","message":"feat: util para diffArray","files":[{"status":"M","path":"src/utils/index.ts"}]}
