@@ -230,3 +230,4 @@
 {"hash":"b64ed8909","author":"Daniel Sobrinho","date":"2023-01-04 17:15:49","message":"feat: implementa servico updateAllPercentualIdVendedor em vendedores","files":[{"status":"M","path":"src/pages/Dashboard/service/vendedores.ts"}]}
 {"hash":"e451c0c72","author":"Daniel Sobrinho","date":"2023-01-04 17:16:15","message":"feat: implementa em contato o servico de delete","files":[{"status":"M","path":"src/pages/Dashboard/service/contato.ts"}]}
 {"hash":"ff822336a","author":"Daniel Sobrinho","date":"2023-01-04 17:17:00","message":"fix: altera no servico de cliente o parametro clientes_clienteDesde no create e update","files":[{"status":"M","path":"src/pages/Dashboard/service/cliente.ts"}]}
+{"hash":"c12f20057","author":"Daniel Sobrinho","date":"2023-01-04 17:17:30","message":"feat: implementa mask no input DatePickerBase","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreatorV2/components/DatePickerBase/index.tsx"}]}
