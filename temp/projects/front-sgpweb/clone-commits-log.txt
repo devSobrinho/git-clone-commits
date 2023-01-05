@@ -239,3 +239,4 @@
 {"hash":"0ffdb2042","author":"Daniel Sobrinho","date":"2023-01-04 17:43:11","message":"fix: altera servico de api para utilizar URL de producao","files":[{"status":"M","path":"src/services/api.ts"}]}
 {"hash":"5f16179d4","author":"Daniel Sobrinho","date":"2023-01-04 17:44:40","message":"styles: remove comentario","files":[{"status":"M","path":"src/pages/Dashboard/service/cliente.ts"}]}
 {"hash":"8aa38bdde","author":"Daniel Sobrinho","date":"2023-01-04 19:06:10","message":"feat: cria componente UserInfo para o Menu e implementa o HeaderAppBar","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/components/HeaderAppBar.tsx"},{"status":"A","path":"src/pages/Dashboard/components/Header/components/UserInfo.tsx"}]}
+{"hash":"a46aa4c36","author":"Daniel Sobrinho","date":"2023-01-05 11:06:18","message":"fix: altera acesso do TabCreator","files":[{"status":"M","path":"src/pages/Dashboard/components/TabPanelCreator/index.tsx"}]}
