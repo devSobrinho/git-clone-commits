@@ -253,3 +253,4 @@
 {"hash":"6bbb5df54","author":"Daniel Sobrinho","date":"2023-01-06 17:47:54","message":"feat: cria hook useHasAccessPrivate","files":[{"status":"A","path":"src/hooks/useHasAccessPrivate.tsx"}]}
 {"hash":"c3fdb5043","author":"Daniel Sobrinho","date":"2023-01-06 17:48:22","message":"feat: implementa componente PrivateRoute ao CheckAuth","files":[{"status":"M","path":"src/components/CheckAuth/index.tsx"}]}
 {"hash":"548b0ce60","author":"Daniel Sobrinho","date":"2023-01-06 17:49:02","message":"fix: altera Regra de Acesso do menuData","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/utils/menuData.ts"}]}
+{"hash":"125f85f09","author":"Daniel Sobrinho","date":"2023-01-06 17:50:35","message":"styles: remove comentarios","files":[{"status":"M","path":"src/pages/Dashboard/pages/PrePostagem/Gerencia/services/gerenciaPrePostagemPesquisa.ts"}]}
