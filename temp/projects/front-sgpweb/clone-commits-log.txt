@@ -248,3 +248,4 @@
 {"hash":"54ee6cfa4","author":"Daniel Sobrinho","date":"2023-01-05 13:55:54","message":"styles: adiciona espaço ao InputSelect quando o valor for 'NENHUM'","files":[{"status":"M","path":"src/pages/Dashboard/components/InputSelect/index.tsx"}]}
 {"hash":"e652b4dff","author":"Daniel Sobrinho","date":"2023-01-06 17:45:25","message":"fix: altera hook useCanSee","files":[{"status":"M","path":"src/hooks/useCanSee.tsx"}]}
 {"hash":"bb90bdf94","author":"Daniel Sobrinho","date":"2023-01-06 17:46:14","message":"fix: altera permissoesJson HeaderAppBar","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/components/HeaderAppBar.tsx"}]}
+{"hash":"e23b894d2","author":"Daniel Sobrinho","date":"2023-01-06 17:47:10","message":"feat: cria componente PageNotFound","files":[{"status":"A","path":"src/components/PageNotFound/index.tsx"}]}
