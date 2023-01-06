@@ -251,3 +251,4 @@
 {"hash":"e23b894d2","author":"Daniel Sobrinho","date":"2023-01-06 17:47:10","message":"feat: cria componente PageNotFound","files":[{"status":"A","path":"src/components/PageNotFound/index.tsx"}]}
 {"hash":"020d759b3","author":"Daniel Sobrinho","date":"2023-01-06 17:47:29","message":"feat: cria componente PrivateRoute","files":[{"status":"A","path":"src/components/PrivateRoute/index.tsx"}]}
 {"hash":"6bbb5df54","author":"Daniel Sobrinho","date":"2023-01-06 17:47:54","message":"feat: cria hook useHasAccessPrivate","files":[{"status":"A","path":"src/hooks/useHasAccessPrivate.tsx"}]}
+{"hash":"c3fdb5043","author":"Daniel Sobrinho","date":"2023-01-06 17:48:22","message":"feat: implementa componente PrivateRoute ao CheckAuth","files":[{"status":"M","path":"src/components/CheckAuth/index.tsx"}]}
