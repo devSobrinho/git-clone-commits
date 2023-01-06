@@ -254,3 +254,4 @@
 {"hash":"c3fdb5043","author":"Daniel Sobrinho","date":"2023-01-06 17:48:22","message":"feat: implementa componente PrivateRoute ao CheckAuth","files":[{"status":"M","path":"src/components/CheckAuth/index.tsx"}]}
 {"hash":"548b0ce60","author":"Daniel Sobrinho","date":"2023-01-06 17:49:02","message":"fix: altera Regra de Acesso do menuData","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/utils/menuData.ts"}]}
 {"hash":"125f85f09","author":"Daniel Sobrinho","date":"2023-01-06 17:50:35","message":"styles: remove comentarios","files":[{"status":"M","path":"src/pages/Dashboard/pages/PrePostagem/Gerencia/services/gerenciaPrePostagemPesquisa.ts"}]}
+{"hash":"f7ab67194","author":"Daniel Sobrinho","date":"2023-01-06 17:56:11","message":"feat: cria privateAccess","files":[{"status":"M","path":"src/hooks/useHasAccessPrivate.tsx"},{"status":"M","path":"src/pages/Dashboard/components/Header/utils/menuData.ts"},{"status":"A","path":"src/private/index.ts"}]}
