@@ -262,3 +262,4 @@
 {"hash":"19044f07a","author":"Daniel Sobrinho","date":"2023-01-13 16:35:46","message":"feat: adiciona permissao gerenciarPrePostagem","files":[{"status":"M","path":"src/utils/permission.interface.ts"}]}
 {"hash":"3c317af73","author":"Daniel Sobrinho","date":"2023-01-18 13:20:19","message":"feat: altera login para email no contexto","files":[{"status":"M","path":"src/context/AuthContext.tsx"}]}
 {"hash":"46100c0ea","author":"Daniel Sobrinho","date":"2023-01-18 13:25:16","message":"fix: remove footer de certificado da SGPWeb com correios","files":[{"status":"M","path":"src/pages/UserSignIn/index.tsx"}]}
+{"hash":"1311ce968","author":"Daniel Sobrinho","date":"2023-01-18 13:26:08","message":"feat: implementa ReCaptcha ao LoginForm e altera para login com email","files":[{"status":"M","path":"src/pages/UserSignIn/LoginForm/index.tsx"}]}
