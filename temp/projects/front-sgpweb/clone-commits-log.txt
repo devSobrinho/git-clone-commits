@@ -267,3 +267,4 @@
 {"hash":"bcad27108","author":"Daniel Sobrinho","date":"2023-01-18 13:27:10","message":"feat: implementa ReCaptcha ao SignIn","files":[{"status":"M","path":"src/pages/UserSignIn/LoginForm/SignIn/index.tsx"}]}
 {"hash":"fd6a14942","author":"Daniel Sobrinho","date":"2023-01-18 13:27:41","message":"feat: cria service validationReCaptcha","files":[{"status":"M","path":"src/services/auth.ts"}]}
 {"hash":"7f4f785b0","author":"Daniel Sobrinho","date":"2023-01-18 13:27:55","message":"styles: remove espaços","files":[{"status":"M","path":"src/pages/Dashboard/pages/MinhaConta/Cadastros/Usuarios/TabAcoesUsuarios.tsx"}]}
+{"hash":"a18626b9d","author":"Daniel Sobrinho","date":"2023-01-18 13:28:19","message":"package: adiciona lib react-google-recaptcha ao projeto","files":[{"status":"M","path":"package.json"}]}
