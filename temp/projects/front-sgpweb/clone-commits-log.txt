@@ -265,3 +265,4 @@
 {"hash":"1311ce968","author":"Daniel Sobrinho","date":"2023-01-18 13:26:08","message":"feat: implementa ReCaptcha ao LoginForm e altera para login com email","files":[{"status":"M","path":"src/pages/UserSignIn/LoginForm/index.tsx"}]}
 {"hash":"dbcf3c226","author":"Daniel Sobrinho","date":"2023-01-18 13:26:35","message":"feat: implementa ReCaptcha ao ForgotPassword","files":[{"status":"M","path":"src/pages/UserSignIn/LoginForm/ForgotPassword/index.tsx"}]}
 {"hash":"bcad27108","author":"Daniel Sobrinho","date":"2023-01-18 13:27:10","message":"feat: implementa ReCaptcha ao SignIn","files":[{"status":"M","path":"src/pages/UserSignIn/LoginForm/SignIn/index.tsx"}]}
+{"hash":"fd6a14942","author":"Daniel Sobrinho","date":"2023-01-18 13:27:41","message":"feat: cria service validationReCaptcha","files":[{"status":"M","path":"src/services/auth.ts"}]}
