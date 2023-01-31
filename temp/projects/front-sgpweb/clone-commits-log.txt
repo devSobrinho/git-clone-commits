@@ -314,3 +314,4 @@
 {"hash":"141364916","author":"Daniel Sobrinho","date":"2023-01-31 15:38:30","message":"feat: tratamento de erro se o upload do firebase levantar excessão","files":[{"status":"M","path":"src/pages/Dashboard/service/firebase.ts"}]}
 {"hash":"e7b8144dc","author":"Daniel Sobrinho","date":"2023-01-31 17:14:05","message":"feat: cria util para msk de cpf e cnpj ou para as duas juntas","files":[{"status":"M","path":"src/utils/index.ts"}]}
 {"hash":"b73cf7434","author":"Daniel Sobrinho","date":"2023-01-31 17:14:34","message":"refactor: modifica tipagem mask com possiveis opções","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreator/FormCreator.types.ts"}]}
+{"hash":"0e2350e41","author":"Daniel Sobrinho","date":"2023-01-31 17:17:35","message":"refactor: implementa mask no InputTextField","files":[{"status":"M","path":"src/pages/Dashboard/components/InputTextField/index.tsx"}]}
