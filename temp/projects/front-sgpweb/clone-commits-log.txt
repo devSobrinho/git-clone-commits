@@ -300,3 +300,4 @@
 {"hash":"3c31aa2bd","author":"Daniel Sobrinho","date":"2023-01-31 14:15:24","message":"feat: cria util para atualizar usuario do local storage","files":[{"status":"M","path":"src/services/auth.ts"}]}
 {"hash":"72bc96413","author":"Daniel Sobrinho","date":"2023-01-31 14:15:45","message":"feat: cria servico para atualizar avatar do usuario","files":[{"status":"M","path":"src/pages/Dashboard/service/usuario.ts"}]}
 {"hash":"e0c65b3a3","author":"Daniel Sobrinho","date":"2023-01-31 14:16:17","message":"feat: implementa ao meu cadastro na visão da agencia a atualizacao do avatar","files":[{"status":"M","path":"src/pages/Dashboard/pages/MinhaConta/MeuCadastro/components/DadosDaAgf/FormDadosDaAgf.tsx"}]}
+{"hash":"9178f2cb1","author":"Daniel Sobrinho","date":"2023-01-31 14:16:51","message":"feat: implementa ao contexto do usuario o update do avatar do usuario do contexto","files":[{"status":"M","path":"src/context/AuthContext.tsx"}]}
