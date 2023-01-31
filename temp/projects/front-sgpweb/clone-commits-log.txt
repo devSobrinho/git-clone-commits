@@ -304,3 +304,4 @@
 {"hash":"051f117cc","author":"Daniel Sobrinho","date":"2023-01-31 14:17:52","message":"refactor: private do menuMeuCadastro","files":[{"status":"M","path":"src/privates/index.ts"}]}
 {"hash":"2050e9f36","author":"Daniel Sobrinho","date":"2023-01-31 14:18:23","message":"feat: cria private para meu cadastro para upload de avatar","files":[{"status":"A","path":"src/privates/meuCadastro/index.ts"}]}
 {"hash":"3af417c74","author":"Daniel Sobrinho","date":"2023-01-31 14:19:09","message":"feat: implementa a atualização do avatar do usuario no menu caso ele tenha permissao para isso","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/components/UserInfo.tsx"}]}
+{"hash":"d875cb488","author":"Daniel Sobrinho","date":"2023-01-31 15:23:35","message":"feat: criado componente avatar para header","files":[{"status":"A","path":"src/pages/Dashboard/components/Header/components/UserAvatar.tsx"}]}
