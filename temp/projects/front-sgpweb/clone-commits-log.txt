@@ -320,3 +320,4 @@
 {"hash":"59cbf38f0","author":"Daniel Sobrinho","date":"2023-01-31 17:47:07","message":"refactor: altera phoneMask","files":[{"status":"M","path":"src/utils/index.ts"}]}
 {"hash":"40eb707be","author":"Daniel Sobrinho","date":"2023-01-31 18:19:55","message":"refactor: altera busca de cep em cadastro de cliente","files":[{"status":"M","path":"src/pages/Dashboard/pages/Comercial/Clientes/screens/Pesquisa/components/DadosClientes.tsx"}]}
 {"hash":"fb3701271","author":"Daniel Sobrinho","date":"2023-02-02 10:34:44","message":"refactor: remove os espaços do email e libera o acesso de todos os usuarios","files":[{"status":"M","path":"src/context/AuthContext.tsx"}]}
+{"hash":"76790fc85","author":"Daniel Sobrinho","date":"2023-02-02 13:03:13","message":"refactor: altera avatar","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/components/UserAvatar.tsx"}]}
