@@ -333,3 +333,4 @@
 {"hash":"2768957ec","author":"Daniel Sobrinho","date":"2023-02-03 16:44:06","message":"fix: alterações de privateAccess","files":[{"status":"M","path":"src/privates/cadastroUsuarios/index.ts"},{"status":"M","path":"src/privates/index.ts"},{"status":"M","path":"src/privates/meuCadastro/index.ts"}]}
 {"hash":"ecde8a312","author":"Daniel Sobrinho","date":"2023-02-03 16:45:50","message":"styles: altera width de container","files":[{"status":"M","path":"src/pages/Dashboard/pages/Home/Home.tsx"},{"status":"M","path":"src/styles/defaultTheme.ts"}]}
 {"hash":"d766970bb","author":"Daniel Sobrinho","date":"2023-02-03 16:45:56","message":"feat: aplica privateAccess de comercial ao menu","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/utils/menuData.ts"}]}
+{"hash":"eda340793","author":"Daniel Sobrinho","date":"2023-02-03 16:49:36","message":"fix: altera permissoes","files":[{"status":"M","path":"src/utils/permission.interface.ts"}]}
