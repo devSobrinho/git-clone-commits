@@ -330,3 +330,4 @@
 {"hash":"6b25af319","author":"Daniel Sobrinho","date":"2023-02-03 16:42:34","message":"styles: altera main-container para ocupar toda a tela do dashboard","files":[{"status":"M","path":"src/pages/Dashboard/style/Dashboard.style.scss"}]}
 {"hash":"77777f8bf","author":"Daniel Sobrinho","date":"2023-02-03 16:43:14","message":"fix: altera contantes de estados","files":[{"status":"M","path":"src/constants/estados.ts"}]}
 {"hash":"bbeb4b909","author":"Daniel Sobrinho","date":"2023-02-03 16:43:44","message":"feat: cria privateAccess para pagina Clientes","files":[{"status":"A","path":"src/privates/clientes/index.ts"}]}
+{"hash":"2768957ec","author":"Daniel Sobrinho","date":"2023-02-03 16:44:06","message":"fix: alterações de privateAccess","files":[{"status":"M","path":"src/privates/cadastroUsuarios/index.ts"},{"status":"M","path":"src/privates/index.ts"},{"status":"M","path":"src/privates/meuCadastro/index.ts"}]}
