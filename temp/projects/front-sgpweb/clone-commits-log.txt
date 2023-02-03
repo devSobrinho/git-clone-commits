@@ -332,3 +332,4 @@
 {"hash":"bbeb4b909","author":"Daniel Sobrinho","date":"2023-02-03 16:43:44","message":"feat: cria privateAccess para pagina Clientes","files":[{"status":"A","path":"src/privates/clientes/index.ts"}]}
 {"hash":"2768957ec","author":"Daniel Sobrinho","date":"2023-02-03 16:44:06","message":"fix: alterações de privateAccess","files":[{"status":"M","path":"src/privates/cadastroUsuarios/index.ts"},{"status":"M","path":"src/privates/index.ts"},{"status":"M","path":"src/privates/meuCadastro/index.ts"}]}
 {"hash":"ecde8a312","author":"Daniel Sobrinho","date":"2023-02-03 16:45:50","message":"styles: altera width de container","files":[{"status":"M","path":"src/pages/Dashboard/pages/Home/Home.tsx"},{"status":"M","path":"src/styles/defaultTheme.ts"}]}
+{"hash":"d766970bb","author":"Daniel Sobrinho","date":"2023-02-03 16:45:56","message":"feat: aplica privateAccess de comercial ao menu","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/utils/menuData.ts"}]}
