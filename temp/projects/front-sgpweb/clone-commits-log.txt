@@ -327,3 +327,4 @@
 {"hash":"d6dde9ebb","author":"Daniel Sobrinho","date":"2023-02-03 13:50:02","message":"fix: alterado filtro de estatisticas do dashboar da home, adicionado status 2,3 e 5 para a consulta","files":[{"status":"M","path":"src/pages/Dashboard/pages/Home/Home.tsx"}]}
 {"hash":"60b701584","author":"Daniel Sobrinho","date":"2023-02-03 14:31:59","message":"fix: altearação do nome do status","files":[{"status":"M","path":"src/constants/forms/status.ts"}]}
 {"hash":"c5898902b","author":"Daniel Sobrinho","date":"2023-02-03 16:13:09","message":"fix: arruma bug do label do input password","files":[{"status":"M","path":"src/pages/Dashboard/components/InputPassword/index.tsx"}]}
+{"hash":"6b25af319","author":"Daniel Sobrinho","date":"2023-02-03 16:42:34","message":"styles: altera main-container para ocupar toda a tela do dashboard","files":[{"status":"M","path":"src/pages/Dashboard/style/Dashboard.style.scss"}]}
