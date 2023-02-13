@@ -394,3 +394,4 @@
 {"hash":"2ee875505","author":"Daniel Sobrinho","date":"2023-02-13 16:24:22","message":"feat: cria privateAccess de gerenciar etiquetas","files":[{"status":"A","path":"src/privates/gerenciarPrePostagem/gerenciarEtiquetas.ts"}]}
 {"hash":"19a7059ce","author":"Daniel Sobrinho","date":"2023-02-13 16:24:56","message":"feat: implementa ao privateAccess prePostagemGerenciarEtiquetas","files":[{"status":"M","path":"src/privates/index.ts"}]}
 {"hash":"5fcd8254d","author":"Daniel Sobrinho","date":"2023-02-13 16:25:18","message":"feat: cria pre pagina da tela Gerenciar Etiquetas","files":[{"status":"A","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/GerenciarEtiquetas.tsx"}]}
+{"hash":"4fd990f9e","author":"Daniel Sobrinho","date":"2023-02-13 16:25:41","message":"feat: adiciona import na index","files":[{"status":"A","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/index.ts"},{"status":"A","path":"src/privates/gerenciarPrePostagem/index.ts"}]}
