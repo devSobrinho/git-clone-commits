@@ -398,3 +398,4 @@
 {"hash":"b5b8f2a8f","author":"Daniel Sobrinho","date":"2023-02-13 16:25:59","message":"feat: implementa GerenciarEtiquetas ao lazy loading","files":[{"status":"M","path":"src/pages/Dashboard/pages/PrePostagem/index.tsx"}]}
 {"hash":"8929eeb03","author":"Daniel Sobrinho","date":"2023-02-13 16:26:25","message":"feat: adiciona ao menu Gerenciar Etiquetas e comenta Orçamentos","files":[{"status":"M","path":"src/pages/Dashboard/components/Header/utils/menuData.ts"}]}
 {"hash":"726a9a61a","author":"Daniel Sobrinho","date":"2023-02-13 16:27:14","message":"styles: adiciona como comentario o modulo de Orcamentos","files":[{"status":"M","path":"src/pages/Dashboard/pages/PrePostagem/index.tsx"}]}
+{"hash":"324bbaf00","author":"Daniel Sobrinho","date":"2023-02-14 13:56:53","message":"fix: altera tipagem  CheckboxBase","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreatorV2/components/CheckboxBase/index.tsx"}]}
