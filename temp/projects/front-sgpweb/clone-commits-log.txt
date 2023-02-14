@@ -401,3 +401,4 @@
 {"hash":"324bbaf00","author":"Daniel Sobrinho","date":"2023-02-14 13:56:53","message":"fix: altera tipagem  CheckboxBase","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreatorV2/components/CheckboxBase/index.tsx"}]}
 {"hash":"16624f3c6","author":"Daniel Sobrinho","date":"2023-02-14 13:57:20","message":"feat: cria componente NovaCarga","files":[{"status":"A","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/components/NovaCarga.tsx"}]}
 {"hash":"6cea99701","author":"Daniel Sobrinho","date":"2023-02-14 13:58:17","message":"fix: arruma url da rota de servicos","files":[{"status":"M","path":"src/pages/Dashboard/service/servicos.ts"}]}
+{"hash":"de10ca583","author":"Daniel Sobrinho","date":"2023-02-14 13:58:36","message":"feaT: cria tabs para tela gerenciar etiquetas","files":[{"status":"A","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/components/TabsGerenciarEtiquetas.tsx"}]}
