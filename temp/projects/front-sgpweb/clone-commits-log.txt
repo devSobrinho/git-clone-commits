@@ -421,3 +421,4 @@
 {"hash":"b1079f169","author":"Daniel Sobrinho","date":"2023-02-16 19:14:49","message":"fix: altera componente SwitchBase","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreatorV2/components/SwitchBase/index.tsx"}]}
 {"hash":"9585344e0","author":"Daniel Sobrinho","date":"2023-02-16 19:15:50","message":"fix: altera tipagem do TableCreatorV2","files":[{"status":"M","path":"src/pages/Dashboard/components/TableCreator/index.tsx"}]}
 {"hash":"3704719b0","author":"Daniel Sobrinho","date":"2023-02-16 19:16:01","message":"feat: cria nova tipagem para TableCreatorV2","files":[{"status":"M","path":"src/pages/Dashboard/components/TableCreator/TableCreator.types.ts"}]}
+{"hash":"fc2ea14f3","author":"Daniel Sobrinho","date":"2023-02-16 19:16:39","message":"feat: implementa TableCreator para tela Gerenciar Etiquetas","files":[{"status":"M","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/components/TabsGerenciarEtiquetas.tsx"}]}
