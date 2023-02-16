@@ -417,3 +417,4 @@
 {"hash":"7ecede8fa","author":"Daniel Sobrinho","date":"2023-02-16 18:56:34","message":"packages: adiciona zustand ao projeto","files":[{"status":"M","path":"package.json"}]}
 {"hash":"9840695f1","author":"Daniel Sobrinho","date":"2023-02-16 18:57:06","message":"feat: cria interface de GerarCargaGenerica","files":[{"status":"A","path":"src/interfaces/gerenciarEtiquetas.ts"}]}
 {"hash":"41283e951","author":"Daniel Sobrinho","date":"2023-02-16 19:12:38","message":"feat: faz consulta apenas quando envia o cod cliente","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreatorV2/components/InputClientSearchBase/index.tsx"}]}
+{"hash":"1643ee8ca","author":"Daniel Sobrinho","date":"2023-02-16 19:12:47","message":"feat: criado componente ButtonSubmit para tela gerenciar etiquetas","files":[{"status":"A","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/components/ButtonSubmit.tsx"}]}
