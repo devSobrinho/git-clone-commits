@@ -426,3 +426,4 @@
 {"hash":"17e6387ce","author":"Daniel Sobrinho","date":"2023-02-16 19:18:14","message":"feat: cria tab ControleCarga","files":[{"status":"A","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/components/ControleCarga.tsx"}]}
 {"hash":"8bf4d1f61","author":"Daniel Sobrinho","date":"2023-02-16 19:18:52","message":"feat: cria servicos para tela gerenciar Etiquetas","files":[{"status":"M","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/services/index.ts"}]}
 {"hash":"24f1f7fe7","author":"Daniel Sobrinho","date":"2023-02-16 19:19:16","message":"feat: cria util para validar o objetoSRO","files":[{"status":"A","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/utils/validations.ts"}]}
+{"hash":"b37190267","author":"Daniel Sobrinho","date":"2023-02-16 19:19:32","message":"feat: cria store de NovaCarga","files":[{"status":"A","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/store/novaCargaStore.ts"}]}
