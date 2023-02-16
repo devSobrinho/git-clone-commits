@@ -422,3 +422,4 @@
 {"hash":"9585344e0","author":"Daniel Sobrinho","date":"2023-02-16 19:15:50","message":"fix: altera tipagem do TableCreatorV2","files":[{"status":"M","path":"src/pages/Dashboard/components/TableCreator/index.tsx"}]}
 {"hash":"3704719b0","author":"Daniel Sobrinho","date":"2023-02-16 19:16:01","message":"feat: cria nova tipagem para TableCreatorV2","files":[{"status":"M","path":"src/pages/Dashboard/components/TableCreator/TableCreator.types.ts"}]}
 {"hash":"fc2ea14f3","author":"Daniel Sobrinho","date":"2023-02-16 19:16:39","message":"feat: implementa TableCreator para tela Gerenciar Etiquetas","files":[{"status":"M","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/components/TabsGerenciarEtiquetas.tsx"}]}
+{"hash":"201fd8ddd","author":"Daniel Sobrinho","date":"2023-02-16 19:17:04","message":"feat: cria hook de props do tableCreator","files":[{"status":"A","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/hooks/useTableNovaCarga.tsx"}]}
