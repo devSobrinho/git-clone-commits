@@ -442,3 +442,4 @@
 {"hash":"da295071a","author":"Daniel Sobrinho","date":"2023-02-22 20:06:45","message":"feat: props da tableModalSearch","files":[{"status":"A","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/hooks/useTableModalSearch.tsx"}]}
 {"hash":"ea96328f1","author":"Daniel Sobrinho","date":"2023-02-22 20:07:12","message":"feat: adicona servico de edição da carga","files":[{"status":"M","path":"src/pages/Dashboard/pages/PrePostagem/GerenciarEtiquetas/services/index.ts"}]}
 {"hash":"060078193","author":"Daniel Sobrinho","date":"2023-02-22 20:07:40","message":"feat: cria serviço global para carga objeto","files":[{"status":"A","path":"src/pages/Dashboard/service/cargaObjeto.ts"}]}
+{"hash":"ed67bba0f","author":"Daniel Sobrinho","date":"2023-02-24 01:07:16","message":"feat: cria componente PageNotFound","files":[{"status":"M","path":"src/components/PageNotFound/index.tsx"}]}
