@@ -446,3 +446,4 @@
 {"hash":"24e491807","author":"Daniel Sobrinho","date":"2023-02-24 01:07:36","message":"feat: implmenta o componente PageNotFound para rotas não existentes","files":[{"status":"M","path":"src/pages/Dashboard/index.tsx"}]}
 {"hash":"a356a4e0d","author":"Daniel Sobrinho","date":"2023-02-24 01:43:36","message":"refactor: alterado LazyComponent para utilizar o lazy e Suspense do react","files":[{"status":"M","path":"src/pages/Dashboard/components/LazyComponent/index.tsx"}]}
 {"hash":"ca6934710","author":"Daniel Sobrinho","date":"2023-02-24 01:43:52","message":"feat: criado componente PageNotFound","files":[{"status":"A","path":"src/pages/Dashboard/components/PageNotFound/index.tsx"}]}
+{"hash":"33c4d5a68","author":"Daniel Sobrinho","date":"2023-02-24 01:49:41","message":"styles: alterado styled da div do ProgressMetaBar","files":[{"status":"M","path":"src/pages/Dashboard/pages/Relatorios/DashboardComercial/components/ProgressMetaBar.tsx"}]}
