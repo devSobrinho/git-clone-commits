@@ -458,3 +458,4 @@
 {"hash":"6606c29d7","author":"Daniel Sobrinho","date":"2023-02-28 12:05:42","message":"feat: cria serviços para gestao da postagem","files":[{"status":"A","path":"src/pages/Dashboard/service/gestao-postagem.ts"}]}
 {"hash":"eaa590cea","author":"Daniel Sobrinho","date":"2023-02-28 12:06:10","message":"feat: cria array dos indicadores da gestao da postagem","files":[{"status":"A","path":"src/pages/Dashboard/pages/Postagem/mock/indicadores.ts"}]}
 {"hash":"26d0af1b1","author":"Daniel Sobrinho","date":"2023-02-28 12:06:41","message":"fix: arruma rota para pagina postagem","files":[{"status":"M","path":"src/pages/Dashboard/index.tsx"}]}
+{"hash":"52d32ede5","author":"Daniel Sobrinho","date":"2023-02-28 12:07:06","message":"feat: implementa novos icones ao componente CardIndicador","files":[{"status":"M","path":"src/pages/Dashboard/components/CardIndicador/index.tsx"}]}
