@@ -456,3 +456,4 @@
 {"hash":"9c43db9ab","author":"Daniel Sobrinho","date":"2023-02-28 12:05:03","message":"feat: cria interface dos servicos de gestao da postagem","files":[{"status":"A","path":"src/interfaces/gestaoPostagem.ts"}]}
 {"hash":"e6b7e9d6c","author":"Daniel Sobrinho","date":"2023-02-28 12:05:24","message":"feat: cria servico para listar clientes","files":[{"status":"M","path":"src/pages/Dashboard/service/pesquisa.ts"}]}
 {"hash":"6606c29d7","author":"Daniel Sobrinho","date":"2023-02-28 12:05:42","message":"feat: cria serviços para gestao da postagem","files":[{"status":"A","path":"src/pages/Dashboard/service/gestao-postagem.ts"}]}
+{"hash":"eaa590cea","author":"Daniel Sobrinho","date":"2023-02-28 12:06:10","message":"feat: cria array dos indicadores da gestao da postagem","files":[{"status":"A","path":"src/pages/Dashboard/pages/Postagem/mock/indicadores.ts"}]}
