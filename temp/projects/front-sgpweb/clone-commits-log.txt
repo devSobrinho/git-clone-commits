@@ -461,3 +461,4 @@
 {"hash":"52d32ede5","author":"Daniel Sobrinho","date":"2023-02-28 12:07:06","message":"feat: implementa novos icones ao componente CardIndicador","files":[{"status":"M","path":"src/pages/Dashboard/components/CardIndicador/index.tsx"}]}
 {"hash":"28e230a53","author":"Daniel Sobrinho","date":"2023-02-28 12:07:21","message":"feat: cria componente DatePickerInputBase","files":[{"status":"A","path":"src/pages/Dashboard/components/FormCreatorV2/components/DataRangePickerBase/index.tsx"}]}
 {"hash":"832a325be","author":"Daniel Sobrinho","date":"2023-02-28 12:07:33","message":"feat: cria componente InputClientSearchBase","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreatorV2/components/InputClientSearchBase/index.tsx"}]}
+{"hash":"0620cc40d","author":"Daniel Sobrinho","date":"2023-02-28 12:07:43","message":"feat: cria componente IndicadoresLayout","files":[{"status":"A","path":"src/pages/Dashboard/components/IndicadoresLayout/index.tsx"}]}
