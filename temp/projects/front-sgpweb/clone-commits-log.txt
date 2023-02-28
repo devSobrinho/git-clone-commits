@@ -470,3 +470,4 @@
 {"hash":"1346b0087","author":"Daniel Sobrinho","date":"2023-02-28 12:10:15","message":"feat: props da table da gestao da postagem","files":[{"status":"A","path":"src/pages/Dashboard/pages/Postagem/hooks/usePostagemTableProps.tsx"}]}
 {"hash":"69301eee8","author":"Daniel Sobrinho","date":"2023-02-28 12:10:35","message":"feat: cria store para table de gestao da postagem","files":[{"status":"A","path":"src/pages/Dashboard/pages/Postagem/store/postagemStore.ts"}]}
 {"hash":"d6c22a984","author":"Daniel Sobrinho","date":"2023-02-28 12:10:53","message":"styles: remove espaços","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/index.tsx"}]}
+{"hash":"8f98e5b3e","author":"Daniel Sobrinho","date":"2023-02-28 12:11:07","message":"feat: cria page da gestao da postagem","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/Postagem.tsx"}]}
