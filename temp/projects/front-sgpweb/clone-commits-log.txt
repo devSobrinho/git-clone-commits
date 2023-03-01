@@ -487,3 +487,4 @@
 {"hash":"3f9142a64","author":"Daniel Sobrinho","date":"2023-03-01 19:44:02","message":"feat: adiciona espaço nao indicador","files":[{"status":"M","path":"src/pages/Dashboard/pages/PrePostagem/Gerencia/Gerencia.tsx"}]}
 {"hash":"ed58fe1f5","author":"Daniel Sobrinho","date":"2023-03-01 19:44:15","message":"styles: remove import nao utilizado","files":[{"status":"M","path":"src/pages/Dashboard/pages/PrePostagem/Gerencia/components/Resultados/GerenciaPrePostagemResultadosTable.tsx"}]}
 {"hash":"2107c1095","author":"Daniel Sobrinho","date":"2023-03-01 19:47:20","message":"feat: criado componente ComponentDataGridServerCustom","files":[{"status":"A","path":"src/pages/Dashboard/components/DataGrid/DataGridServerCustom.tsx"}]}
+{"hash":"6f84d3329","author":"Daniel Sobrinho","date":"2023-03-01 19:47:37","message":"feat: adiciona a store os params da pesquisa","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/store/postagemStore.ts"}]}
