@@ -508,3 +508,4 @@
 {"hash":"bf2d341b9","author":"Daniel Sobrinho","date":"2023-03-02 20:19:22","message":"feat: repassa props refetch","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/components/FormPostagem.tsx"},{"status":"M","path":"src/pages/Dashboard/pages/Postagem/components/TabsPostagem.tsx"}]}
 {"hash":"df92d878c","author":"Daniel Sobrinho","date":"2023-03-02 20:19:51","message":"feat: adiciona menssagem de erro quando da erro na busca de clientes","files":[{"status":"M","path":"src/pages/Dashboard/service/pesquisa.ts"}]}
 {"hash":"8843b7124","author":"Daniel Sobrinho","date":"2023-03-02 20:20:42","message":"feat: implementa hook de busca","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/Postagem.tsx"}]}
+{"hash":"2e0e48e36","author":"Daniel Sobrinho","date":"2023-03-02 20:27:04","message":"feat: adiciona props pageSize para hook useTableAsync","files":[{"status":"M","path":"src/hooks/useTableAsync.tsx"}]}
