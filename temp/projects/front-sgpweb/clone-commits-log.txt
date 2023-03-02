@@ -498,3 +498,4 @@
 {"hash":"0b3911aaf","author":"Daniel Sobrinho","date":"2023-03-01 22:01:44","message":"fix: altera a posicao da tab dos formularios e os indicadores da tela gestao da postagem","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/Postagem.tsx"}]}
 {"hash":"7fbfbd715","author":"Daniel Sobrinho","date":"2023-03-01 22:02:19","message":"feat: adiciona estilos a componente DetailsInfoIcons","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/components/DetailsInfoIcons.tsx"}]}
 {"hash":"9793ecd07","author":"Daniel Sobrinho","date":"2023-03-01 22:02:50","message":"fix: altera defaultValue da dataEnvio do formulario de postagem","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/components/FormPostagem.tsx"}]}
+{"hash":"185ded0c7","author":"Daniel Sobrinho","date":"2023-03-01 22:03:04","message":"feat: altera store da table de postagem","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/store/postagemStore.ts"}]}
