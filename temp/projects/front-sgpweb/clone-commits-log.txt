@@ -510,3 +510,4 @@
 {"hash":"8843b7124","author":"Daniel Sobrinho","date":"2023-03-02 20:20:42","message":"feat: implementa hook de busca","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/Postagem.tsx"}]}
 {"hash":"2e0e48e36","author":"Daniel Sobrinho","date":"2023-03-02 20:27:04","message":"feat: adiciona props pageSize para hook useTableAsync","files":[{"status":"M","path":"src/hooks/useTableAsync.tsx"}]}
 {"hash":"d65708ceb","author":"Daniel Sobrinho","date":"2023-03-03 12:06:25","message":"feat: adiciona debounce ao hook do useTableAsync","files":[{"status":"M","path":"src/hooks/useTableAsync.tsx"}]}
+{"hash":"c6e6863eb","author":"Daniel Sobrinho","date":"2023-03-03 12:09:07","message":"feat: usando nvoas props no hook","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/Postagem.tsx"}]}
