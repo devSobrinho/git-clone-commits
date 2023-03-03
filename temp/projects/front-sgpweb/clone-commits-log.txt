@@ -521,3 +521,4 @@
 {"hash":"014a1e23f","author":"Daniel Sobrinho","date":"2023-03-03 19:45:52","message":"styles: altera bgcolor","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/components/DetailsInfoIcons.tsx"}]}
 {"hash":"3391c3da4","author":"Daniel Sobrinho","date":"2023-03-03 19:46:12","message":"feat: cria formulario do resumo de postagens","files":[{"status":"A","path":"src/pages/Dashboard/pages/Postagem/components/FormResumoPostagens.tsx"}]}
 {"hash":"a4db3db4d","author":"Daniel Sobrinho","date":"2023-03-03 19:46:29","message":"feat: cria formulario de relatorio de postagem","files":[{"status":"A","path":"src/pages/Dashboard/pages/Postagem/components/FormRelatorioPostagem.tsx"}]}
+{"hash":"4f6296b94","author":"Daniel Sobrinho","date":"2023-03-03 19:46:42","message":"feat: cria formulario de outros serviços","files":[{"status":"A","path":"src/pages/Dashboard/pages/Postagem/components/FormOutrosServicos.tsx"}]}
