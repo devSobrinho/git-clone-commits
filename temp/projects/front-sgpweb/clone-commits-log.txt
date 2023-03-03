@@ -515,3 +515,4 @@
 {"hash":"b109524f4","author":"Daniel Sobrinho","date":"2023-03-03 19:43:20","message":"feat: cria componente ButtonComponent","files":[{"status":"A","path":"src/pages/Dashboard/components/Button/ButtonComponent.tsx"}]}
 {"hash":"5eed1331a","author":"Daniel Sobrinho","date":"2023-03-03 19:43:30","message":"export: ButtonComponent","files":[{"status":"A","path":"src/pages/Dashboard/components/Button/index.ts"}]}
 {"hash":"35a6c3e55","author":"Daniel Sobrinho","date":"2023-03-03 19:43:50","message":"feat: adiciona props onClick ao TabPanelCreator","files":[{"status":"M","path":"src/pages/Dashboard/components/TabPanelCreator/index.tsx"}]}
+{"hash":"504b3762e","author":"Daniel Sobrinho","date":"2023-03-03 19:44:27","message":"fix: altera tela da gestao da Postagem","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/Postagem.tsx"}]}
