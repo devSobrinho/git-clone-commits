@@ -520,3 +520,4 @@
 {"hash":"0ddd8bd1e","author":"Daniel Sobrinho","date":"2023-03-03 19:45:34","message":"fix: altera props do DataGrid da pesquisa completa","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/components/DataGridCustomProps.tsx"}]}
 {"hash":"014a1e23f","author":"Daniel Sobrinho","date":"2023-03-03 19:45:52","message":"styles: altera bgcolor","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/components/DetailsInfoIcons.tsx"}]}
 {"hash":"3391c3da4","author":"Daniel Sobrinho","date":"2023-03-03 19:46:12","message":"feat: cria formulario do resumo de postagens","files":[{"status":"A","path":"src/pages/Dashboard/pages/Postagem/components/FormResumoPostagens.tsx"}]}
+{"hash":"a4db3db4d","author":"Daniel Sobrinho","date":"2023-03-03 19:46:29","message":"feat: cria formulario de relatorio de postagem","files":[{"status":"A","path":"src/pages/Dashboard/pages/Postagem/components/FormRelatorioPostagem.tsx"}]}
