@@ -522,3 +522,4 @@
 {"hash":"3391c3da4","author":"Daniel Sobrinho","date":"2023-03-03 19:46:12","message":"feat: cria formulario do resumo de postagens","files":[{"status":"A","path":"src/pages/Dashboard/pages/Postagem/components/FormResumoPostagens.tsx"}]}
 {"hash":"a4db3db4d","author":"Daniel Sobrinho","date":"2023-03-03 19:46:29","message":"feat: cria formulario de relatorio de postagem","files":[{"status":"A","path":"src/pages/Dashboard/pages/Postagem/components/FormRelatorioPostagem.tsx"}]}
 {"hash":"4f6296b94","author":"Daniel Sobrinho","date":"2023-03-03 19:46:42","message":"feat: cria formulario de outros serviços","files":[{"status":"A","path":"src/pages/Dashboard/pages/Postagem/components/FormOutrosServicos.tsx"}]}
+{"hash":"7d3d47f94","author":"Daniel Sobrinho","date":"2023-03-03 19:47:12","message":"feat: implementa as tabs os formularios da tela de postagens","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/components/TabsPostagem.tsx"}]}
