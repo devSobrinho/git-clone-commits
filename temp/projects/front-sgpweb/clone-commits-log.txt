@@ -512,3 +512,4 @@
 {"hash":"d65708ceb","author":"Daniel Sobrinho","date":"2023-03-03 12:06:25","message":"feat: adiciona debounce ao hook do useTableAsync","files":[{"status":"M","path":"src/hooks/useTableAsync.tsx"}]}
 {"hash":"c6e6863eb","author":"Daniel Sobrinho","date":"2023-03-03 12:09:07","message":"feat: usando nvoas props no hook","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/Postagem.tsx"}]}
 {"hash":"95ad12901","author":"Daniel Sobrinho","date":"2023-03-03 12:17:57","message":"styles: altera aspas e remove log","files":[{"status":"M","path":"src/hooks/useTableAsync.tsx"}]}
+{"hash":"b109524f4","author":"Daniel Sobrinho","date":"2023-03-03 19:43:20","message":"feat: cria componente ButtonComponent","files":[{"status":"A","path":"src/pages/Dashboard/components/Button/ButtonComponent.tsx"}]}
