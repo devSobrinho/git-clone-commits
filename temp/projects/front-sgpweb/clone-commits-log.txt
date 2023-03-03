@@ -518,3 +518,4 @@
 {"hash":"504b3762e","author":"Daniel Sobrinho","date":"2023-03-03 19:44:27","message":"fix: altera tela da gestao da Postagem","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/Postagem.tsx"}]}
 {"hash":"cd778af9e","author":"Daniel Sobrinho","date":"2023-03-03 19:45:06","message":"feat: cria componente CardInfoResumoPostagens como auxiliar do resumo das postagens","files":[{"status":"A","path":"src/pages/Dashboard/pages/Postagem/components/CardInfoResumoPostagens.tsx"}]}
 {"hash":"0ddd8bd1e","author":"Daniel Sobrinho","date":"2023-03-03 19:45:34","message":"fix: altera props do DataGrid da pesquisa completa","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/components/DataGridCustomProps.tsx"}]}
+{"hash":"014a1e23f","author":"Daniel Sobrinho","date":"2023-03-03 19:45:52","message":"styles: altera bgcolor","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/components/DetailsInfoIcons.tsx"}]}
