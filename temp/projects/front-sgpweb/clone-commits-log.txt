@@ -535,3 +535,4 @@
 {"hash":"0c24d0b8a","author":"Daniel Sobrinho","date":"2023-03-06 13:59:16","message":"fix: altera componente para pesquisa avançada","files":[{"status":"M","path":"src/pages/Dashboard/pages/Postagem/components/TabsPostagem.tsx"}]}
 {"hash":"5de781e10","author":"Daniel Sobrinho","date":"2023-03-06 20:37:14","message":"feat: adiciona config para refetch e altera size na primeira consulta","files":[{"status":"M","path":"src/hooks/useTableAsync.tsx"}]}
 {"hash":"ec2661698","author":"Daniel Sobrinho","date":"2023-03-06 20:37:28","message":"feat: cria constante para status de etiqueta","files":[{"status":"M","path":"src/constants/formatos-etiquetas.ts"}]}
+{"hash":"919809c66","author":"Daniel Sobrinho","date":"2023-03-06 20:37:57","message":"fix: retira container do componente ComponentDataGridServerCustom","files":[{"status":"M","path":"src/pages/Dashboard/components/DataGrid/DataGridServerCustom.tsx"}]}
