@@ -537,3 +537,4 @@
 {"hash":"ec2661698","author":"Daniel Sobrinho","date":"2023-03-06 20:37:28","message":"feat: cria constante para status de etiqueta","files":[{"status":"M","path":"src/constants/formatos-etiquetas.ts"}]}
 {"hash":"919809c66","author":"Daniel Sobrinho","date":"2023-03-06 20:37:57","message":"fix: retira container do componente ComponentDataGridServerCustom","files":[{"status":"M","path":"src/pages/Dashboard/components/DataGrid/DataGridServerCustom.tsx"}]}
 {"hash":"58b49c2e5","author":"Daniel Sobrinho","date":"2023-03-06 20:38:34","message":"feat: adiciona config do Intl na util FFormatCurrency","files":[{"status":"M","path":"src/utils/convert.ts"}]}
+{"hash":"11bb96759","author":"Daniel Sobrinho","date":"2023-03-06 20:39:00","message":"fix: arruma componente DatePickerInputBase para receber defaultValue","files":[{"status":"M","path":"src/pages/Dashboard/components/FormCreatorV2/components/DataRangePickerBase/index.tsx"}]}
