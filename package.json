@@ -1,0 +1,28 @@
+{
+  "name": "git-clone-commits-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bin": {
+    "git-clone": "./dist/cli/cli.js"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.13",
+    "@types/node": "^22.8.4",
+    "@types/shell-quote": "^1.7.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "inquirer": "^12.0.1",
+    "lodash": "^4.17.21",
+    "shell-quote": "^1.8.1"
+  }
+}
