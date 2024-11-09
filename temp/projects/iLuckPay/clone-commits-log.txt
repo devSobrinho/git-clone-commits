@@ -3,3 +3,4 @@
 {"hash":"a649050","author":"Daniel Sobrinho","date":"2024-11-09 04:49:02","message":"feat: create Checkbox component","files":[{"status":"A","path":"src/components/ui/form/checkbox/index.tsx"}]}
 {"hash":"5ff3c6e","author":"Daniel Sobrinho","date":"2024-11-09 04:54:37","message":"refactor: update signup schema to improve validation","files":[{"status":"A","path":"src/components/forms/signup-form/schema.ts"}]}
 {"hash":"03643f5","author":"Daniel Sobrinho","date":"2024-11-09 04:55:08","message":"feat: add Title component","files":[{"status":"A","path":"src/components/ui/title.tsx"}]}
+{"hash":"5fb0402","author":"Daniel Sobrinho","date":"2024-11-09 04:57:17","message":"feat: add signup service and input interface","files":[{"status":"A","path":"src/interfaces/services/auth/signup.interface.ts"},{"status":"A","path":"src/services/auth.ts"}]}
