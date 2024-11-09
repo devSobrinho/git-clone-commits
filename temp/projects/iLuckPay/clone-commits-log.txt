@@ -5,3 +5,4 @@
 {"hash":"03643f5","author":"Daniel Sobrinho","date":"2024-11-09 04:55:08","message":"feat: add Title component","files":[{"status":"A","path":"src/components/ui/title.tsx"}]}
 {"hash":"5fb0402","author":"Daniel Sobrinho","date":"2024-11-09 04:57:17","message":"feat: add signup service and input interface","files":[{"status":"A","path":"src/interfaces/services/auth/signup.interface.ts"},{"status":"A","path":"src/services/auth.ts"}]}
 {"hash":"d2f716b","author":"Daniel Sobrinho","date":"2024-11-09 04:58:18","message":"feat: add PasswordValidationMessage component for password strength feedback","files":[{"status":"A","path":"src/components/forms/signup-form/password-validation-message.tsx"},{"status":"A","path":"src/components/forms/signup-form/validation-message.tsx"}]}
+{"hash":"1d239ac","author":"Daniel Sobrinho","date":"2024-11-09 04:58:46","message":"feat: implement Title component in page for consistent headings","files":[{"status":"M","path":"src/app/[locale"}]}
