@@ -2,3 +2,4 @@
 {"hash":"70e036a","author":"Daniel Sobrinho","date":"2024-11-09 04:48:45","message":"feat: create Password component","files":[{"status":"A","path":"src/components/ui/form/password/index.tsx"}]}
 {"hash":"a649050","author":"Daniel Sobrinho","date":"2024-11-09 04:49:02","message":"feat: create Checkbox component","files":[{"status":"A","path":"src/components/ui/form/checkbox/index.tsx"}]}
 {"hash":"5ff3c6e","author":"Daniel Sobrinho","date":"2024-11-09 04:54:37","message":"refactor: update signup schema to improve validation","files":[{"status":"A","path":"src/components/forms/signup-form/schema.ts"}]}
+{"hash":"03643f5","author":"Daniel Sobrinho","date":"2024-11-09 04:55:08","message":"feat: add Title component","files":[{"status":"A","path":"src/components/ui/title.tsx"}]}
