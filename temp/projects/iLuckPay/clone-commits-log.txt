@@ -1,0 +1,1 @@
+{"hash":"046feba","author":"Daniel Sobrinho","date":"2024-11-09 04:47:45","message":"feat: add new translation keys to support additional content","files":[{"status":"M","path":"messages/en-us.json"},{"status":"M","path":"messages/pt-br.json"},{"status":"M","path":"messages/pt-pt.json"}]}
