@@ -11,3 +11,4 @@
 {"hash":"e5173fa","author":"Daniel Sobrinho","date":"2024-11-11 19:33:27","message":"feat: update VSCode settings for i18n-ally configuration and cSpell words","files":[{"status":"M","path":".vscode/settings.json"}]}
 {"hash":"8ecb1e5","author":"Daniel Sobrinho","date":"2024-11-11 19:34:03","message":"feat: update error messages in signup schema for consistency and clarity","files":[{"status":"M","path":"src/components/forms/signup-form/schema.ts"}]}
 {"hash":"9f95446","author":"Daniel Sobrinho","date":"2024-11-11 21:19:39","message":"feat: add routes file with authentication paths","files":[{"status":"A","path":"src/routes/paths.ts"}]}
+{"hash":"19737db","author":"Daniel Sobrinho","date":"2024-11-11 21:21:09","message":"feat: add AuthNavigation component for seamless authentication navigation","files":[{"status":"A","path":"src/components/features/auth/auth-navigation.tsx"}]}
