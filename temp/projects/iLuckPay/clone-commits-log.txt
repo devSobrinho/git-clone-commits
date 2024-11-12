@@ -19,3 +19,4 @@
 {"hash":"51929b1","author":"Daniel Sobrinho","date":"2024-11-12 14:25:26","message":"feat: add text to forget-password screen","files":[{"status":"M","path":"messages/en-us.json"},{"status":"M","path":"messages/pt-br.json"},{"status":"M","path":"messages/pt-pt.json"}]}
 {"hash":"887af95","author":"Daniel Sobrinho","date":"2024-11-12 14:26:25","message":"feat: add services for forget-password","files":[{"status":"M","path":"src/services/auth.ts"}]}
 {"hash":"65f41bc","author":"Daniel Sobrinho","date":"2024-11-12 14:27:01","message":"styles: standardize quotes and improve formatting in InputOTP component","files":[{"status":"M","path":"src/components/ui/input-otp.tsx"}]}
+{"hash":"ef9e222","author":"Daniel Sobrinho","date":"2024-11-12 14:29:07","message":"styles: changes styles and props","files":[{"status":"M","path":"src/components/ui/form/password/index.tsx"},{"status":"M","path":"src/components/ui/title.tsx"}]}
