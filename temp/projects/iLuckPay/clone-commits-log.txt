@@ -13,3 +13,4 @@
 {"hash":"9f95446","author":"Daniel Sobrinho","date":"2024-11-11 21:19:39","message":"feat: add routes file with authentication paths","files":[{"status":"A","path":"src/routes/paths.ts"}]}
 {"hash":"19737db","author":"Daniel Sobrinho","date":"2024-11-11 21:21:09","message":"feat: add AuthNavigation component for seamless authentication navigation","files":[{"status":"A","path":"src/components/features/auth/auth-navigation.tsx"}]}
 {"hash":"b6a69fe","author":"Daniel Sobrinho","date":"2024-11-11 21:21:18","message":"refactor: simplify LogoAuth component structure and improve styling","files":[{"status":"M","path":"src/components/features/auth/logo-auth.tsx"}]}
+{"hash":"96e3d1c","author":"Daniel Sobrinho","date":"2024-11-11 21:21:26","message":"feat: enhance Title component to accept additional className and props","files":[{"status":"M","path":"src/components/ui/title.tsx"}]}
